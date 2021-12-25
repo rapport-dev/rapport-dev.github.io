@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "rapport-dev-development",
+    "production": "synthetic-span-336019",
+    "dev": "rapport-dev-development"
+  },
+  "targets": {}
+}
